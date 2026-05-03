@@ -1,0 +1,6 @@
+apiVersion: anywhere.eks.amazonaws.com/v1alpha1
+kind: Bundles
+spec:
+  versionsBundles:
+    - eksD:
+        gitCommit: abc123def456

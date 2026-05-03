@@ -1,0 +1,7 @@
+apiVersion: distro.eks.amazonaws.com/v1alpha1
+kind: Release
+metadata:
+  name: kubernetes-1-31-eks-1
+spec:
+  channel: "1-31"
+  number: 1
